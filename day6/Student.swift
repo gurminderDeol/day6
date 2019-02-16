@@ -7,6 +7,10 @@
 //
 
 import Foundation
+extension   String
+{
+    
+}
 class Student
 {
     var sid :Int!
